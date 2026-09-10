@@ -15,12 +15,12 @@
 
 - ⚡ Fun fact **I can debug code faster than I can decide what to eat! 🍕💻**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yash-kadam-4551792a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yashkadam_2114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="mailto:yashkadam2114@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
-<a href="https://github.com/YashKadam2114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-kadam-4551792a2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/yashkadam_2114" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:yashkadam2114@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/YashKadam2114" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,16 +43,15 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YashKadam2114&show_icons=true&locale=en&theme=radical" alt="YashKadam2114" width="48%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashKadam2114&show_icons=true&locale=en&layout=compact&theme=radical" alt="YashKadam2114" width="48%"/>
-</p>
-
-<br clear="both">
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashKadam2114&theme=radical" alt="streak stats"/>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=YashKadam2114&show_icons=true&locale=en&theme=radical" alt="YashKadam2114 stats" width="100%"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashKadam2114&show_icons=true&locale=en&layout=compact&theme=radical" alt="YashKadam2114 top languages" width="100%"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YashKadam2114&theme=radical" alt="YashKadam2114 streak stats"/></td>
+  </tr>
+</table>
 
 <h3 align="left">🎓 Education</h3>
 <p align="left">
