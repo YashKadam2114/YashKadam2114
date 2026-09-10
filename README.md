@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/6b836e47-ab89-4bb1-902b-8bf231ccfe88)
+![Banner]([https://github.com/user-attachments/assets/6b836e47-ab89-4bb1-902b-8bf231ccfe88](https://drive.google.com/drive/folders/1gQ1BQOTAH4CoNa0QifCJSyT1N100NkTS))
 
 <h1 align="center">Hi 👋, I'm Yash Kadam</h1>
 <h3 align="center">💻 Full-Stack Developer | 🌐 Cloud Enthusiast | 🤖 AI/ML Explorer | 🎓 BTech @ MIT ADT Pune | 🚀 Tech Innovator</h3>
