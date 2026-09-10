@@ -9,21 +9,18 @@
 
 - 🌱 I'm currently learning **Data Structures & Algorithms, Full-Stack Web Development, and Cloud Computing (AWS/Azure)**
 
-- 👨‍💻 All of my projects are available at [your-portfolio-link.com](#)
-
 - 💬 Ask me about **Full-Stack Development, Java/Python, DSA, and Building Scalable Systems**
 
 - 📫 How to reach me **yashkadam2114@gmail.com**
-
-- 📄 Know about my experience [Resume Link](#)
 
 - ⚡ Fun fact **I can debug code faster than I can decide what to eat! 🍕💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-kadam-4551792a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yashkadam_2114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="mailto:yashkadam2114@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://github.com/YashKadam2114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,20 +39,19 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en&theme=radical" alt="your-github-username" width="48%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact&theme=radical" alt="your-github-username" width="48%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YashKadam2114&show_icons=true&locale=en&theme=radical" alt="YashKadam2114" width="48%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashKadam2114&show_icons=true&locale=en&layout=compact&theme=radical" alt="YashKadam2114" width="48%"/>
 </p>
 
 <br clear="both">
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashKadam2114&theme=radical" alt="streak stats"/>
 </p>
 
 <h3 align="left">🎓 Education</h3>
