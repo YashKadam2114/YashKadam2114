@@ -44,10 +44,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=YashKadam2114&show_icons=true&locale=en&theme=radical" alt="YashKadam2114 stats" width="100%"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashKadam2114&show_icons=true&locale=en&layout=compact&theme=radical" alt="YashKadam2114 top languages" width="100%"/></td>
-  </tr>
+  
   <tr>
     <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YashKadam2114&theme=radical" alt="YashKadam2114 streak stats"/></td>
   </tr>
