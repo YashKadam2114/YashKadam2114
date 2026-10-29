@@ -1,61 +1,136 @@
-<p align="center">
-  <img src="./github-header-banner (1).png" alt="Yash Kadam Banner" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Yash Kadam</h1>
-<h3 align="center">💻 Full-Stack Developer | 🌐 Cloud Enthusiast | 🤖 AI/ML Explorer | 🎓 BTech @ MIT ADT Pune | 🚀 Tech Innovator</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=150&section=header&text=Yash%20Kadam&fontColor=e2e8f0&fontSize=44&fontAlign=50&fontAlignY=45&desc=backend%20%C2%B7%20java%20%C2%B7%20spring%20boot&descSize=15&descAlignY=68&descColor=94a3b8" width="100%" alt="Yash Kadam header"/>
 
-<img align="right" alt="Coding Gif" width="400" src="https://user-images.githubusercontent.com/24664153/197371678-9a748b89-0ae7-4446-841e-18396e7bc0ab.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1200&color=94A3B8&center=true&vCenter=true&width=520&lines=Final-year+CSE+%40+MIT+School+of+Computing;I+build+backend+systems+that+hold+up;Co-author+of+two+published+papers+(NLP%2FML);Open+to+SDE+roles+%E2%80%94+fresher)](https://git.io/typing-svg)
 
-- 🌱 I'm currently learning **Data Structures & Algorithms, Full-Stack Web Development, and Cloud Computing (AWS/Azure)**
+</div>
 
-- 💬 Ask me about **Full-Stack Development, Java/Python, DSA, and Building Scalable Systems**
+<br/>
 
-- 📫 How to reach me **yashkadam2114@gmail.com**
+```java
+public class YashKadam implements BackendEngineer {
 
-- ⚡ Fun fact **I can debug code faster than I can decide what to eat! 🍕💻**
+    String  education = "B.Tech CSE, MIT School of Computing (2023–2027)";
+    double  cgpa      = 8.46;
+    String  stack     = "Java · Spring Boot · MySQL · REST";
+    String  workflow  = "Git · Agile/Scrum · code reviews · unit tests";
+    String  research  = "NLP / ML, 2 papers co-authored";
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yash-kadam-4551792a2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/yashkadam_2114" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="mailto:yashkadam2114@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/YashKadam2114" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+    @Override
+    public void build() {
+        while (curious) {
+            design(api);
+            write(tests);
+            ship();
+        }
+    }
+}
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
+<br/>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<table align="center">
-  
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YashKadam2114&theme=radical" alt="YashKadam2114 streak stats"/></td>
-  </tr>
+## `/projects`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### AspireUp
+*Smart career platform*
+
+Spring Boot REST APIs for profiles, resumes and recommendations, built with a 4-person Agile team. Includes a resume-analysis module that scores skills against job requirements and returns targeted suggestions.
+
+`Spring Boot` `REST` `Git`
+
+[→ view repo](https://github.com/YOUR_USERNAME/AspireUp)
+
+</td>
+<td width="33%" valign="top">
+
+### LandTinder
+*Farm land partnership platform*
+
+Matches landowners with farmers. Auth with role-based dashboards, validated land-listing flows (location, area, images) and a responsive UI across desktop and mobile.
+
+`Spring Boot` `MySQL` `RBAC`
+
+[→ view repo](https://github.com/YOUR_USERNAME/LandTinder)
+
+</td>
+<td width="33%" valign="top">
+
+### Detoxify
+*AI-based YouTube feed cleaner*
+
+Uses NLP and ML to filter toxic or irrelevant videos and personalise recommendations from watch history. Tested end to end before deployment. Published as a paper.
+
+`Java` `Spring Boot` `NLP/ML`
+
+[→ view repo](https://github.com/YOUR_USERNAME/Detoxify)
+
+</td>
+</tr>
 </table>
 
-<h3 align="left">🎓 Education</h3>
-<p align="left">
-🏫 <b>MIT ADT University, Pune</b><br>
-Bachelor of Technology (B.Tech)
-</p>
+<br/>
 
----
+## `/research`
 
-<p align="center"><i>💡 "Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
+| Year | Paper | Venue |
+|:----:|:------|:------|
+| 2026 | **Detoxify: An Automated System to Recalibrate YouTube Recommendation** | IJSRET |
+| 2025 | **Sentiment Analysis for Product Review** | Int. Journal of Creative Research Thoughts |
+
+<br/>
+
+## `/stack`
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-1e293b?style=for-the-badge&logo=openjdk&logoColor=f89820)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1e293b?style=for-the-badge&logo=springboot&logoColor=6db33f)
+![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=for-the-badge&logo=mysql&logoColor=4479a1)
+![REST](https://img.shields.io/badge/REST_APIs-1e293b?style=for-the-badge&logo=postman&logoColor=ff6c37)
+![Git](https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=f05032)
+![SQL](https://img.shields.io/badge/SQL-1e293b?style=for-the-badge&logo=databricks&logoColor=94a3b8)
+
+</div>
+
+**Fundamentals I lean on:** OOP · Data Structures · DBMS · Computer Networks · Unit Testing
+
+<br/>
+
+## `/stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0f172a&title_color=e2e8f0&text_color=94a3b8&icon_color=64748b&ring_color=94a3b8" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0f172a&title_color=e2e8f0&text_color=94a3b8" alt="Top languages"/>
+
+</div>
+
+<br/>
+
+## `/now`
+
+- 🔧 Deepening Spring Boot: layered architecture, validation, security, testing
+- 📚 Sharpening DSA, DBMS and OS fundamentals for placement season
+- 🎯 Looking for a fresher software engineering role, backend-leaning
+
+<br/>
+
+## `/contact`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:yashkadam2114@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/yash-kadam-4551792a2)
+
+<br/>
+
+<sub>built with <code>Java</code>, caffeine, and a lot of <code>git commit</code></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=60&section=footer" width="100%" alt=""/>
+
+</div>
